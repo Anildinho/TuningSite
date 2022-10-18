@@ -1,0 +1,97 @@
+a, li{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+
+.navClass{
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+
+.generalFontClass{
+    font-family: 'Raleway', sans-serif;
+}
+
+.h1Class{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #ffffff;
+}
+
+.h1ClassBlack{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #000000;
+}
+
+.h2Class{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.h2Class{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: #000000;
+}
+
+.h3Class{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.h3ClassBlack{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color: #000000;
+}
+
+.h4Class{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.h4ClassBlack{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #000000;
+}
+
+.h5Class{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.h5ClassBlack{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    color: #000000;
+}
+
+.h6Class{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    color: #ffffff;
+}
+
+.h6ClassBlack{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    color: #000000;
+}
+
+.pClass{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.pClassBlack{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #000000;
+}

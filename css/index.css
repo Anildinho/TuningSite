@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import "font.css";
+@import "colors.css";
+@import "background.css";
+
+.imageGreyScale{
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.generalBackgroundColor{
+    background-color: #212529;
+}
+
+.generalTextColor{
+    color: #ffffff;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    color: white;
+}
+
+a{
+    color: grey;
+}
+
+a:active{
+    color: white;
+}
+
+a:hover{
+    color: white;
+}
+
+.inactiveLink{
+    pointer-events: none;
+    cursor: default;
+}
+
+.marginBottomLink{
+    margin-bottom: 5px;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.blockMainBackground{
+    background-image: url("../img/BMW/Banners/bmw_m4cs_banner.jpg");
+    background-size: cover;
+}
+
+.jumbotronMainBackground{
+    background-image: url("../img/BMW/Banners/index.jpg");
+    background-size: cover;
+}
+
+.jumbotron{
+    background-color: #212529;
+    min-height: 75vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.jumbotron2{
+    background-color: #212529;
+    min-height: 25vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.jumbotronTemplate{
+    background-color: #212529;
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.blockBrand{
+    text-align: center;
+    border-style: solid;
+    color: transparent;
+    width: 110px;
+    height: 110px;
+}
+
+.linkDecorationNone{
+    text-decoration: none;
+}
+
+.linkDecorationNoneWhite{
+    text-decoration: none;
+    color: white;
+}
+
+/* --- tinyImages Styles --- */
+.tinyImages100{
+    height: auto;
+    width: 100px;
+}
+
+.tinyImages75{
+    height: auto;
+    width: 75px;
+}
+
+.tinyImages62{
+    height: auto;
+    width: 62px;
+}
+
+.tinyImages50{
+    height: auto;
+    width: 50px;
+}
+
+.tinyImages40{
+    height: auto;
+    width: 40px;
+}
+/* --- tinyImages Styles --- */
+
+
+/* --- imgHolder Styles --- */
+.imgHolder30{
+    margin-top: 30px;
+}
+
+.imgHolder25{
+    margin-top: 25px;
+}
+
+.imgHolder20{
+    margin-top: 20px;
+}
+
+.imgHolder15{
+    margin-top: 15px;
+}
+/* --- imgHolder Styles --- */
